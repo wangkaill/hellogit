@@ -1,4 +1,4 @@
-package main.java.com.bjpowernode;
+package com.bjpowernode;
 
 public class HellloMaven {
     public static void main(String[] args) {
@@ -15,6 +15,7 @@ public class HellloMaven {
         System.out.println("分支再添加");
         System.out.println("主干添加");
         System.out.println("在线更新");
+        System.out.println("克隆项目");
     }
     public int add(int a, int b) {
         return  a + b;
